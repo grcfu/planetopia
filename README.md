@@ -1,18 +1,26 @@
-Planetopia is a React Native application designed to make sustainable living accessible and engaging.
+# Planetopia 🌍
+**Sustainable living, simplified.**
 
-# Key Features:
+Planetopia is a **React Native** application designed to make sustainable living accessible and engaging. It combines educational content with gamified progress to help you track and achieve your environmental goals.
 
-Curated Content: Stay informed with a newsfeed of climate change and sustainability articles.
+---
 
-Community Guides: Learn practical tips for sustainable living from community-posted and fact-checked guides.
+### 📱 Features
+* **Curated Content:** A newsfeed of climate change and sustainability articles.
+* **Community Guides:** Practical, fact-checked tips for sustainable living.
+* **Gamified Progress:** Track daily, weekly, and monthly goals to earn points and climb the leaderboard.
+* **Social Features:** Add friends and view their progress to stay motivated.
+* **Planet Zones:** Unlock new habitats as you progress on your sustainability journey.
 
-Gamified Progress: Track your daily, weekly, and monthly goals. Earn points for completing sustainable activities and climb the leaderboard.
+---
 
-Social Features: Add friends, view their progress, and motivate each other.
+### 🛠 Tech Stack
+* **Frontend:** React Native (JavaScript)
+* **Design:** Figma & Procreate
+* **Backend:** Firebase
+* **Tools:** VS Code
 
-Planet Zones: Unlock new habitats in the app as you earn points and make progress on your sustainability journey.
+---
 
-This project was built using VS Code, CSS, JavaScript, and React Native, with design assets created in Procreate and Figma.
-
-# Check out the video here:
-https://youtu.be/4juDNj_NWbk?si=tRX8AEBdV_CaiFnm
+### 🎥 Demo
+Check out the project video here: [Watch Planetopia Demo](https://youtu.be/4juDNj_NWbk)
